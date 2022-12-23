@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         task1();
         task2();
         task3();
@@ -114,6 +115,7 @@ public class Main {
         + differenceInAnnualIncomeBetweenSalaryAndNewSalaryMasha + " рублей");
         System.out.println("Денис теперь получает " + newSalaryDenis + " рублей. Годовой доход вырос на "
                 + differenceInAnnualIncomeBetweenSalaryAndNewSalaryDenis + " рублей");
+
 
     }
 }
